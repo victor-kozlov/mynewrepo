@@ -1,0 +1,2 @@
+# mynewrepo
+For learning purposes
